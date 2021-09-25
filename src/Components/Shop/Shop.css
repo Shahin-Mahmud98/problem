@@ -1,3 +1,13 @@
+.container{
+    background-color: rgba(0, 0, 0, 0.85);
+    text-align: center;
+    line-height: 40px;
+}
+.container input{
+    width: 75%;
+    height: 25px;
+    /* line-height:25px ; */
+}
 .shop-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
